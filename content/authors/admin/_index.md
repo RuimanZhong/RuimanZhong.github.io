@@ -25,8 +25,7 @@ organizations:
     url: https://www.kaust.edu.sa/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
-Hi, my name is Ruiman.  I am a Ph.D. candidate in Statistics. 
+bio: ''
 
 # Interests to show in About widget
 interests:

@@ -28,7 +28,6 @@ organizations:
 bio: 
 Hi, my name is Ruiman.  I am a Ph.D. candidate in Statistics. 
 
-
 # Interests to show in About widget
 interests:
   - Spatial temporal data analysis

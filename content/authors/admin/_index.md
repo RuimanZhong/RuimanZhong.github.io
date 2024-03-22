@@ -77,16 +77,16 @@ skills:
         percent: 60
         icon: person-hiking
         icon_pack: fas
-      - name: ''
+      - name: Swimming
         description: ''
-        percent: ''
-        icon: ''
-        icon_pack: ''
-      - name: 
+        percent: 60
+        icon: person-swimming
+        icon_pack: fas
+      - name: Reading
         description: ''
-        percent: ''
-        icon: ''
-        icon_pack: ''
+        percent: 80
+        icon: glasses
+        icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
